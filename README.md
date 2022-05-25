@@ -4,7 +4,7 @@ I am a freelance [full-stack developer](https://www.reddit.com/r/ProgrammerHumor
 
 Welcome to my GitHub :octocat: profile!
 
-### Repos 'N Gists
+### :computer: Repos 'N Gists
 
 [calderone](https://github.com/jackdbd/calderone) - TypeScript monorepo I use to develop most of my [npm packages](https://www.npmjs.com/settings/jackdbd/packages) and try out stuff on Google Cloud Platform.<br />
 [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin, zig-idiomatic wrapper for the [Cairo](https://gitlab.freedesktop.org/cairo/cairo) graphics library.<br />
@@ -17,14 +17,14 @@ Welcome to my GitHub :octocat: profile!
 
 ![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackdbd&count_private=true&show_icons=true&theme=gruvbox)
 
-### Find me on the internetz
+### 🔍 Find me on the internetz
 
-[🌎: personal site & blog](https://www.giacomodebidda.com/) <br>
-[🐦: Twitter](https://twitter.com/jackdbd) <br>
-[💼: LinkedIn](https://www.linkedin.com/in/giacomodebidda/) <br>
-[📚: Stack Overflow](https://stackoverflow.com/users/3036129/jackdbd/)
+[🌎 Personal site & blog](https://www.giacomodebidda.com/) <br>
+[🐦 Twitter](https://twitter.com/jackdbd) <br>
+[💼 LinkedIn](https://www.linkedin.com/in/giacomodebidda/) <br>
+[📚 Stack Overflow](https://stackoverflow.com/users/3036129/jackdbd/)
 
-### Selected blog posts
+### :pencil: Selected blog posts
 
 - [Test your JavaScript on multiple engines with eshost-cli and jsvu](https://www.giacomodebidda.com/posts/test-your-javascript-on-multiple-engines-with-eshost-cli-and-jsvu/)
 - [Generate and view HAR files](https://www.giacomodebidda.com/posts/generate-and-view-har-files/)
@@ -33,3 +33,11 @@ Welcome to my GitHub :octocat: profile!
 - [MVC pattern in Python: Introduction and BasicModel](https://www.giacomodebidda.com/posts/mvc-pattern-in-python-introduction-and-basicmodel/)
 - [Inspect container images with dive](https://www.giacomodebidda.com/posts/inspect-container-images-with-dive/)
 - [A few timeless lessons from Peopleware](https://www.giacomodebidda.com/posts/a-few-timeless-lessons-from-peopleware/)
+
+### :books: Books I'm reading
+
+- [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_)
+- [Mazes for Programmers: Code Your Own Twisty Little Passages](https://www.goodreads.com/book/show/25069349-mazes-for-programmers)
+- [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.goodreads.com/book/show/39380358-practical-binary-analysis)
+
+More books on [my goodreads profile](https://www.goodreads.com/user/show/76503683-giacomo-debidda).
