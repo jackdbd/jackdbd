@@ -4,9 +4,12 @@ I am a freelance [full-stack developer](https://www.reddit.com/r/ProgrammerHumor
 
 Welcome to my GitHub :octocat: profile!
 
-### :computer: Repos 'N Gists
+### :computer: Gists 'N Repos
 
-[calderone](https://github.com/jackdbd/calderone) - TypeScript monorepo I use to develop most of my [npm packages](https://www.npmjs.com/settings/jackdbd/packages) and try out stuff on Google Cloud Platform.<br />
+[calderone](https://github.com/jackdbd/calderone) - TypeScript monorepo I use to develop most of my [npm packages](https://www.npmjs.com/settings/jackdbd/packages) and try out new stuff.<br />
+[undici](https://github.com/jackdbd/undici) - monorepo for my [11ty](https://www.11ty.dev/) plugins.<br />
+[matsuri](https://github.com/jackdbd/matsuri) - monorepo for my [hapi.js](https://hapi.dev/) plugins.<br />
+[personal-website](https://github.com/jackdbd/personal-website) - personal website and blog, built with 11ty and [Workbox](https://developer.chrome.com/docs/workbox/). Hosted on [Cloudflare Pages](https://pages.cloudflare.com/).<br />
 [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin, zig-idiomatic wrapper for the [Cairo](https://gitlab.freedesktop.org/cairo/cairo) graphics library.<br />
 [path-tracer](https://github.com/jackdbd/path-tracer) - Implementation of Peter Shirley's [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) in the Zig programming language.<br />
 [skija-samples](https://github.com/jackdbd/skija-samples) - Repo I use to learn how to use [Skija](https://github.com/JetBrains/skija) in Clojure.<br />
@@ -36,8 +39,9 @@ Welcome to my GitHub :octocat: profile!
 
 ### :books: Books I'm reading
 
-- [Release It!: Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_)
+- [Purely Functional Data Structures](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages](https://www.goodreads.com/book/show/25069349-mazes-for-programmers)
 - [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.goodreads.com/book/show/39380358-practical-binary-analysis)
+- [Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code](https://www.goodreads.com/book/show/23116862-mastering-clojure-macros)
 
 More books on [my goodreads profile](https://www.goodreads.com/user/show/76503683-giacomo-debidda).
