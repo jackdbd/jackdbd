@@ -1,6 +1,6 @@
 ## Hi there, I'm Giacomo 👋
 
-I am a freelance [full-stack developer](https://www.reddit.com/r/ProgrammerHumor/comments/dzgyf6/fullstack_developer_means/) and [Google Associate Engineer](https://www.credential.net/36581938-f21f-4883-9a40-2761dd55d9ee).
+I am a freelance [full-stack developer](https://www.reddit.com/r/ProgrammerHumor/comments/dzgyf6/fullstack_developer_means/) from Italy 🇮🇹.
 
 Welcome to my GitHub :octocat: profile!
 
@@ -29,11 +29,10 @@ Welcome to my GitHub :octocat: profile!
 
 ### :pencil: Selected blog posts
 
+- [Performance audit of an Italian news website](https://www.giacomodebidda.com/posts/performance-audit-of-an-italian-news-website/)
 - [Test your JavaScript on multiple engines with eshost-cli and jsvu](https://www.giacomodebidda.com/posts/test-your-javascript-on-multiple-engines-with-eshost-cli-and-jsvu/)
 - [Generate and view HAR files](https://www.giacomodebidda.com/posts/generate-and-view-har-files/)
-- [Flexible runtime polymorphism with Clojure multimethods](https://www.giacomodebidda.com/posts/flexible-runtime-polymorphism-with-clojure-multimethods/)
 - [3 ways to solve the expression problem](https://www.giacomodebidda.com/posts/3-ways-to-solve-the-expression-problem/)
-- [MVC pattern in Python: Introduction and BasicModel](https://www.giacomodebidda.com/posts/mvc-pattern-in-python-introduction-and-basicmodel/)
 - [Inspect container images with dive](https://www.giacomodebidda.com/posts/inspect-container-images-with-dive/)
 - [A few timeless lessons from Peopleware](https://www.giacomodebidda.com/posts/a-few-timeless-lessons-from-peopleware/)
 
@@ -42,6 +41,6 @@ Welcome to my GitHub :octocat: profile!
 - [Purely Functional Data Structures](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages](https://www.goodreads.com/book/show/25069349-mazes-for-programmers)
 - [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.goodreads.com/book/show/39380358-practical-binary-analysis)
-- [Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code](https://www.goodreads.com/book/show/23116862-mastering-clojure-macros)
+- [Embracing Defeat: Japan in the Wake of World War II](https://www.goodreads.com/book/show/273197.Embracing_Defeat)
 
 More books on [my goodreads profile](https://www.goodreads.com/user/show/76503683-giacomo-debidda).
