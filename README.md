@@ -41,6 +41,6 @@ Welcome to my GitHub :octocat: profile!
 - [Purely Functional Data Structures](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages](https://www.goodreads.com/book/show/25069349-mazes-for-programmers)
 - [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.goodreads.com/book/show/39380358-practical-binary-analysis)
-- [Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It](https://www.goodreads.com/book/show/44432844-ruined-by-design)
+- [Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience](https://www.goodreads.com/book/show/25520974-articulating-design-decisions)
 
 More books on [my goodreads profile](https://www.goodreads.com/user/show/76503683-giacomo-debidda).
