@@ -29,6 +29,7 @@ Welcome to my GitHub :octocat: profile!
 
 ### :pencil: Selected blog posts
 
+- [Auditing an eCommerce website](https://www.giacomodebidda.com/posts/auditing-an-ecommerce-website/)
 - [Performance audit of an Italian news website](https://www.giacomodebidda.com/posts/performance-audit-of-an-italian-news-website/)
 - [Test your JavaScript on multiple engines with eshost-cli and jsvu](https://www.giacomodebidda.com/posts/test-your-javascript-on-multiple-engines-with-eshost-cli-and-jsvu/)
 - [Generate and view HAR files](https://www.giacomodebidda.com/posts/generate-and-view-har-files/)
@@ -38,6 +39,7 @@ Welcome to my GitHub :octocat: profile!
 
 ### :books: Books I'm reading
 
+- [The Socratic Method: A Practitioner's Handbook](https://www.goodreads.com/book/show/57185177-the-socratic-method)
 - [Purely Functional Data Structures](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages](https://www.goodreads.com/book/show/25069349-mazes-for-programmers)
 - [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.goodreads.com/book/show/39380358-practical-binary-analysis)
