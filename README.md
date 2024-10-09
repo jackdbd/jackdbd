@@ -7,6 +7,7 @@ Welcome to my GitHub :octocat: profile!
 ### :computer: Gists 'N Repos
 
 [calderone](https://github.com/jackdbd/calderone) - TypeScript monorepo I use to develop most of my [npm packages](https://www.npmjs.com/settings/jackdbd/packages) and try out new stuff.<br />
+[fosdem-dl](https://github.com/jackdbd/fosdem-dl) - CLI to download videos and slides from FOSDEM websites.<br />
 [undici](https://github.com/jackdbd/undici) - monorepo for my [11ty](https://www.11ty.dev/) plugins.<br />
 [matsuri](https://github.com/jackdbd/matsuri) - monorepo for my [hapi.js](https://hapi.dev/) plugins.<br />
 [personal-website](https://github.com/jackdbd/personal-website) - personal website and blog, built with 11ty and [Workbox](https://developer.chrome.com/docs/workbox/). Hosted on [Cloudflare Pages](https://pages.cloudflare.com/).<br />
@@ -15,7 +16,6 @@ Welcome to my GitHub :octocat: profile!
 [path-tracer](https://github.com/jackdbd/path-tracer) - Implementation of Peter Shirley's [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) in the Zig programming language.<br />
 [skija-samples](https://github.com/jackdbd/skija-samples) - Repo I use to learn how to use [Skija](https://github.com/JetBrains/skija) in Clojure.<br />
 [talks](https://github.com/jackdbd/talks/) - Talks and presentation I gave at conferences and meetups.<br>
-[dotfiles](https://github.com/jackdbd/dotfiles) - My personal Linux dotfiles, symlinked to my home directory with [GNU Stow](https://www.gnu.org/software/stow/).<br />
 [Minimal XCB + Cairo example in Zig](https://gist.github.com/jackdbd/4fe072c6012d3a4897282e4a1f484e2e) (gist)<br />
 [Function reflection in Zig](https://gist.github.com/jackdbd/aa5236bb1d3fa5556327319fcdd5600a) (gist)<br />
 
@@ -40,7 +40,7 @@ Welcome to my GitHub :octocat: profile!
 
 ### :books: Books I'm reading
 
-- [The Razor's Edge](https://www.goodreads.com/book/show/31196.The_Razor_s_Edge)
+- [Managing The Professional Service Firm](https://www.goodreads.com/book/show/685405.Managing_The_Professional_Service_Firm)
 - [Purely Functional Data Structures](https://www.goodreads.com/book/show/594288.Purely_Functional_Data_Structures)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages](https://www.goodreads.com/book/show/25069349-mazes-for-programmers)
 - [Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly](https://www.goodreads.com/book/show/39380358-practical-binary-analysis)
