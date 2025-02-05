@@ -6,10 +6,10 @@ Welcome to my GitHub :octocat: profile!
 
 ### :computer: Gists 'N Repos
 
-[calderone](https://github.com/jackdbd/calderone) - TypeScript monorepo I use to develop most of my [npm packages](https://www.npmjs.com/settings/jackdbd/packages) and try out new stuff.<br />
 [fosdem-dl](https://github.com/jackdbd/fosdem-dl) - CLI to download videos and slides from FOSDEM websites.<br />
 [undici](https://github.com/jackdbd/undici) - monorepo for my [11ty](https://www.11ty.dev/) plugins.<br />
 [matsuri](https://github.com/jackdbd/matsuri) - monorepo for my [hapi.js](https://hapi.dev/) plugins.<br />
+[rapido](https://github.com/jackdbd/rapido) - monorepo for my [Fastify](https://fastify.dev/) plugins.<br />
 [personal-website](https://github.com/jackdbd/personal-website) - personal website and blog, built with 11ty and [Workbox](https://developer.chrome.com/docs/workbox/). Hosted on [Cloudflare Pages](https://pages.cloudflare.com/).<br />
 [nix-config](https://github.com/jackdbd/nix-config) - [NixOS](https://nixos.org/) and [Home Manager](https://github.com/nix-community/home-manager) configurations for my machines.<br />
 [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin, zig-idiomatic wrapper for the [Cairo](https://gitlab.freedesktop.org/cairo/cairo) graphics library.<br />
@@ -24,7 +24,7 @@ Welcome to my GitHub :octocat: profile!
 ### 🔍 Find me on the internetz
 
 [🌎 Personal site & blog](https://www.giacomodebidda.com/) <br>
-[🐦 Twitter](https://twitter.com/jackdbd) <br>
+~~[🐦 Twitter](https://twitter.com/jackdbd)~~ <br>
 [💼 LinkedIn](https://www.linkedin.com/in/giacomodebidda/) <br>
 [📚 Stack Overflow](https://stackoverflow.com/users/3036129/jackdbd/)
 
